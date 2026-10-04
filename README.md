@@ -53,7 +53,7 @@ docs/                         Concept, architecture, program plan, business case
 
 ## Demo
 
-Concept animation: *link coming soon*
+Concept animation: https://github.com/vivekselva91/Auralink/blob/main/AuraLink_Concept_Watch_RoomSense.mp4
 
 ## License
 
